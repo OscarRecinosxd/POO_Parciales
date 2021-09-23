@@ -1,0 +1,48 @@
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\bin\Debug\netcoreapp3.1\ParcialFinal.exe
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\bin\Debug\netcoreapp3.1\ParcialFinal.deps.json
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\bin\Debug\netcoreapp3.1\ParcialFinal.runtimeconfig.json
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\bin\Debug\netcoreapp3.1\ParcialFinal.runtimeconfig.dev.json
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\bin\Debug\netcoreapp3.1\ParcialFinal.dll
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\bin\Debug\netcoreapp3.1\ParcialFinal.pdb
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.csprojAssemblyReference.cache
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.AssemblyInfoInputs.cache
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.AssemblyInfo.cs
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.csproj.CoreCompileInputs.cache
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.csproj.CopyComplete
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.dll
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.pdb
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.genruntimeconfig.cache
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\bin\Debug\netcoreapp3.1\ParcialFinal.exe
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\bin\Debug\netcoreapp3.1\ParcialFinal.deps.json
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\bin\Debug\netcoreapp3.1\ParcialFinal.runtimeconfig.json
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\bin\Debug\netcoreapp3.1\ParcialFinal.runtimeconfig.dev.json
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\bin\Debug\netcoreapp3.1\ParcialFinal.dll
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\bin\Debug\netcoreapp3.1\ParcialFinal.pdb
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.csprojAssemblyReference.cache
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.Form1.resources
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.csproj.GenerateResource.cache
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.csproj.CoreCompileInputs.cache
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.AssemblyInfoInputs.cache
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.AssemblyInfo.cs
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.csproj.CopyComplete
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.dll
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.pdb
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.genruntimeconfig.cache
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.Form1.resources
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.csproj.GenerateResource.cache
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.VigilanteMenu.resources
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.EmpleadoMenu.resources
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.AdministradorMenu.resources
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.Agregar_Usuario.resources
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.AdministradorMenu.resources
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.Agregar_Usuario.resources
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.EmpleadoMenu.resources
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.VigilanteMenu.resources
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.Eliminar_Usuario.resources
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.RegistroHistorico.resources
+C:\Users\Johan Tino\Desktop\Parcial03\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.RegistroActual.resources
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.Eliminar_Usuario.resources
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.RegistroActual.resources
+C:\Users\Recinos\Desktop\Github\POOF_00128519_00304019\SourceCode\ParcialFinal\obj\Debug\netcoreapp3.1\ParcialFinal.RegistroHistorico.resources
